@@ -1,7 +1,5 @@
 # Box Office App
 
-Site Link: https://pacifier121.github.io/
-
 ## Available Scripts
 
 In the project directory, you can run:
